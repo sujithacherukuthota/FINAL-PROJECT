@@ -253,6 +253,8 @@ The overall trend implies a multifaceted issue where gender dynamics intersect w
 
 ### Decoding the Calendar: Seasonal and Annual Rhythms in School Shootings 
 
+<img src="https://github.com/sujithacherukuthota/FINAL-PROJECT/blob/main/dashboard%20111.png" width="700" height="500">
+
 The x-axis on the top graph represents the progression of years, providing a timeline for the incidents' occurrence.
 
 The y-axis on the top graph indicates the number of incidents, offering insight into the frequency of occurrences over time.
@@ -290,7 +292,7 @@ Understanding the location distribution of these incidents can help stakeholders
 
 ### Variability and Distribution of News Reports on School Shootings by Educational Stage
 
-<img src="<img src="https://github.com/sujithacherukuthota/FINAL-PROJECT/blob/main/location.png" width="700" height="500">
+<img src="https://github.com/sujithacherukuthota/FINAL-PROJECT/blob/main/voilin%20plot'.png" width="700" height="500">
 
 X-Axis: "School Level"
 Y-Axis: "Number of News Reports"
