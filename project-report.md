@@ -82,9 +82,13 @@ For policymakers, the findings from this dataset have far-reaching implications.
   
 - `Data Type Correction`: I converted the 'date' column to the datetime type to facilitate time-based analysis. Additionally, I transformed other columns that were incorrectly categorized as strings into numeric data types, setting non-convertible values as NaNs to maintain data integrity.
 
-- `Text Standardization`: To avoid case sensitivity issues, especially with string data, I standardized the 'state' column by converting all entries to uppercase. This ensures uniformity and prevents misclassification due to text format discrepancies.
 
 - `Duplicate Removal`: In my pursuit of data accuracy, I removed any rows that were exact duplicates, thereby preventing data redundancy from skewing the results of the analysis.
 
 - `Irrelevant or Incorrect Data Handling`: I eliminated entries with future dates and those with illogical negative values in 'number_news'. Such entries are likely to be data entry errors and could distort the findings of my study.
+
+## EXPLORATORY DATA ANALYSIS
+
+#### STATICTICAL SUMMARY
+
 
