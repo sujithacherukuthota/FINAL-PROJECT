@@ -306,7 +306,7 @@ The length and width of each ‘violin’ indicate the range and the frequency o
 
 ### Interplay of Time and Place in School Shooting Episodes
 
-<img src="<img src="https://github.com/sujithacherukuthota/FINAL-PROJECT/blob/main/stacked%20bar.png" width="700" height="500">
+<img src="https://github.com/sujithacherukuthota/FINAL-PROJECT/blob/main/stacked%20bar.png" width="700" height="500">
 
 X-Axis: "Location Type" - categorizes the places where incidents occurred, such as inside school buildings or on school property.
 Y-Axis: "Number of Incidents" - quantifies the count of incidents.
@@ -323,7 +323,7 @@ For policymakers, the data could underscore the need for tailored strategies for
 
 ### Impact Severity: Average Victims in School Shooting Scenarios
 
-<img src="<img src="https://github.com/sujithacherukuthota/FINAL-PROJECT/blob/main/number%20of%20victims.png" width="700" height="500">
+<img src="https://github.com/sujithacherukuthota/FINAL-PROJECT/blob/main/number%20of%20victims.png" width="700" height="500">
 
 X-Axis: "Situation" - categorizes the context or situation during which the shooting took place, such as "Indiscriminate Shooting" or "Hostage/Standoff."
 
@@ -336,4 +336,22 @@ Other contexts, such as bullying or drive-by shootings, present lower average vi
 
 Understanding these patterns is essential for law enforcement, educators, and policymakers to develop focused preventative measures and crisis response plans.
 The data informs stakeholders about the critical need for interventions tailored to the nature of the incident to mitigate impact effectively.
+
+## FINAL THOUGHTS
+
+**Through various visualizations, we have observed a disturbing increase in the number of incidents over recent years, with a marked rise in the last decade, signaling an urgent need for intervention and policy response.**
+
+**The data has also revealed that certain states, such as California, Texas, and Florida, have experienced a higher frequency of these tragic events. This geographic concentration might suggest the influence of regional factors and calls for tailored preventative strategies.**
+
+**When dissecting the incidents by school level, it becomes apparent that high schools have been disproportionately affected, which could reflect the social dynamics and developmental challenges specific to that age group. However, the presence of such incidents across all educational levels, from elementary to junior high, is a stark reminder that no segment of the school population is immune.**
+
+**Another poignant insight comes from the gender distribution of victims where, in many types of incidents, male victims outnumber female victims. It's a reflection that could spur discussions around gender-related social issues and security measures in educational environments.**
+
+**The analysis of incident causes paints a complex picture of the motivations behind these shootings, ranging from personal disputes to bullying. Each cause, no less tragic than the others, prompts us to consider the underlying societal and psychological factors at play.**
+
+**The interactive maps and the granular data on the time and location of incidents highlight potential patterns in when and where school shootings are more likely to occur, offering a pathway for focused security enhancements.**
+
+
+## MY RECOMMENDATIONS FOR STAKE HOLDER 
+
 
