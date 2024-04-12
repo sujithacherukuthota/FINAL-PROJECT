@@ -123,7 +123,7 @@ Lastly, reliability and shots_fired have a correlation of 0.03, which is negligi
 ### "What has been the trend of school shooting incidents in the United States over the past decades, and what does the latest data suggest about the changing frequency of these occurrences?"
 
 
-<img src="https://github.com/sujithacherukuthota/FINAL-PROJECT/blob/main/F%20CHART%201.png" width="800" height="600">
+<img src="https://github.com/sujithacherukuthota/FINAL-PROJECT/blob/main/F11.png" width="700" height="500">
 
 X-axis (Time Scale): The horizontal axis represents time, plotted in years. It extends from the early 1980s through to 2021, providing a long-term view of the data.
 
@@ -159,5 +159,52 @@ By combining bars and lines, I can display multiple variables at once
 
 ### QUESTION 2
 
-### 
+### What underlying factors are most prevalent in school shooting incidents, and how do these contributing elements vary in their impact on the occurrence of such tragic events?"
+
+
+<img src="https://github.com/sujithacherukuthota/FINAL-PROJECT/blob/main/F22.png" width="700" height="500">
+
+
+X-Axis (Horizontal):
+
+Label: “% of All School Shootings”
+Scale: Appears to be linear, representing the percentage distribution of incidents across different factors.
+Data: Reflects the proportion of school shootings associated with each listed factor.
+
+Y-Axis (Vertical):
+
+Label: There is no explicit label, but it lists factors that led to shootings.
+Categories: Different factors such as "Escalation of Dispute," "Drive-by Shooting," "Illegal Activity," etc.
+Data: Categorical data indicating the nature of each incident.
+
+Each bar represents the percentage of school shootings attributable to the factor listed on the y-axis.
+The length of the bar corresponds to the frequency percentage.
+
+The color scheme differentiates between factors with a higher impact (red) and factors with a lesser impact (green), offering visual guidance on their relative significance.
+
+Tooltip: When hovering over a bar, a tooltip appears showing specific data, like incident_id=19 and situation=Accidental, suggesting an interactive element that provides more detail on demand.
+
+#### INSIGHTS 
+
+The chart  "Primary Factors that Led to the Shooting" is  a compelling visualization of the triggers behind school shootings. The stark contrast in colors between high-impact and low-impact factors draws immediate attention to "Escalation of Dispute," the predominant cause. This insight alone is a clarion call for conflict resolution programs within schools. Interventions that focus on de-escalation could be instrumental in curbing the incidence of violence.
+
+Drive-by shootings, usually associated with gang violence or external disputes spilling onto school grounds, stand out as the second most common factor. This suggests that some school shootings are a reflection of broader societal issues rather than isolated school-based problems. It raises important questions about community safety and the need for comprehensive strategies that extend beyond school premises.
+
+Illegal activities, which are just as prominent as accidental shootings, underscore the intertwining of schools with the legal challenges facing the community. These activities might range from drug-related issues to possession of firearms, indicating a potential for preventive measures through law enforcement and education.
+
+The lower end of the scale, marked in green, covers factors such as bullying, officer-involved shootings, and mental health crises (indicated by 'Psychosis'). While these factors account for a smaller percentage of incidents, they are no less critical. Each incident represents a failure to protect students and staff, highlighting gaps in mental health support, bullying prevention, and the role of law enforcement in educational settings.
+
+Moreover, the interactive aspect of the graph, revealing details upon hover, not only personalizes the data but also reminds us that behind every statistic is a story, a community impacted, and lives changed.
+
+This chart doesn't just paint a picture of past tragedies; it offers a blueprint for prevention. Stakeholders could use these insights to prioritize funding, target interventions, and craft policies that tackle the most prevalent factors, perhaps mitigating future incidents before they occur. It's a data-driven starting point for crucial conversations about safety, mental health, and the well-being of young learners in our nation's schools.
+
+#### VISUALIZATION IDIOM
+
+| Data: Attribute             | Data: Attribute Type | Encode: Channel           |
+|-----------------------------|----------------------|---------------------------|
+| Primary Factors             | Categorical         | Y-axis (vertical position)|
+| Percentage of Incidents     | Quantitative        | X-axis (length of bar)    |
+
+
+
 
