@@ -206,5 +206,132 @@ This chart doesn't just paint a picture of past tragedies; it offers a blueprint
 | Percentage of Incidents     | Quantitative        | X-axis (length of bar)    |
 
 
+## FURTHER ANALYSIS 
 
+### States Under the Microscope: A Comparative Analysis of School Shooting Incidents
+
+
+<img src="https://github.com/sujithacherukuthota/FINAL-PROJECT/blob/main/top%2010%20states.png" width="700" height="500">
+
+
+The bar chart highlights the disparity in school shooting incidents across the U.S., with California, Texas, and Florida reporting the highest numbers. This visualization underscores the national scope of the issue, with the top ten states showcasing significant counts, necessitating proactive measures and policy reforms to enhance school safety. It's a nationwide call to action for stakeholders to delve into causative factors and strengthen preventive strategies.
+
+
+### States with Minimal School Shooting Occurrences
+
+<img src="https://github.com/sujithacherukuthota/FINAL-PROJECT/blob/main/least%2010.png" width="700" height="500">
+
+orizontal Axis (X-Axis): Displays the states, categorized by their geographical designation.
+Vertical Axis (Y-Axis): Represents the number of school shooting incidents recorded.
+
+The graph provides a revealing perspective on the states with the fewest school shootings, a significant contrast to the more prevalent instances in other states. It may point towards effective preventive measures, stringent gun laws, or lower risk factors in these regions. This analysis can serve as a reference for stakeholders aiming to understand the effectiveness of various strategies in minimizing such incidents. The visualization invites a deeper analysis into the socio-economic and legal frameworks of these states that could be contributing to these lower numbers.
+Stakeholders like policymakers and educational authorities can use this data to identify and emulate effective safety strategies in states with higher incident rates.
+
+
+### Evolving Risk Patterns: A Decadal Snapshot of School Shooting Frequencies by Educational Tier"
+
+<img src="https://github.com/sujithacherukuthota/FINAL-PROJECT/blob/main/school%20level%20vs%20year.png" width="700" height="500">
+
+The data visualization offers a longitudinal analysis of school shooting occurrences broken down by educational tiers, revealing significant patterns over the years. The graph's timeline underscores decades of relative consistency, with incidents occurring sporadically across various school levels, but a striking and disturbing surge in incidents at high schools in recent years stands out. This sudden rise poses critical questions about the underlying causes, ranging from socio-economic stressors to changes in school environment dynamics or societal issues impacting youth. The marked increase necessitates a deep dive into high school environments to understand and address the drivers of such trends.
+
+The graph also accentuates the contrast between high school incidents and those at other educational levels, such as elementary, middle, junior high, and combined-grade schools like K-8 and K-12. Although there is a visible uptick across the board, the frequency and intensity of events in high schools demand urgent attention.
+
+
+### Dissecting the Gender Disparity: Victim Profile Analysis in School Shooting
+
+<img src="https://github.com/sujithacherukuthota/FINAL-PROJECT/blob/main/male%20vs%20female.png" width="700" height="500">
+
+The x-axis represents the primary factors leading to school shooting incidents, offering a categorical breakdown of the events.
+The y-axis quantifies the number of victims, providing a comparison between male and female individuals affected by these tragedies.
+
+This graph starkly illustrates the gender disparity among victims of school shootings, segmented by the precipitating factors of each event. The peak in male victims during drive-by shootings and indiscriminate shootings suggests a potential gender bias in targeting or perhaps a higher likelihood of males being present or involved in such situations.
+
+However, the disparity is not consistent across all categories. In some instances, such as domestic situations with a targeted victim, the number of male and female victims is closer. This could imply that domestic circumstances that escalate to violence at schools affect genders more equally.
+
+The overall trend implies a multifaceted issue where gender dynamics intersect with the motives and contexts of school shootings. Such insights are essential for stakeholders developing gender-sensitive preventative measures, support systems, and post-incident protocols.
+
+
+### Decoding the Calendar: Seasonal and Annual Rhythms in School Shootings 
+
+The x-axis on the top graph represents the progression of years, providing a timeline for the incidents' occurrence.
+
+The y-axis on the top graph indicates the number of incidents, offering insight into the frequency of occurrences over time.
+
+The x-axis on the bottom graph displays the months of the year, hinting at potential seasonal patterns in the incidents.
+
+The y-axis on the bottom graph shows the number of incidents, similarly offering insight into the frequency of occurrences but on a monthly basis.
+
+This dual graph offers a compelling visualization of school shootings across different time scales. The top graph's sharp upward trend in recent years raises alarm, indicating a surge in such tragic events. It serves as a stark reminder of the escalating nature of the issue at hand.
+
+The bottom graph sheds light on the monthly distribution, suggesting a seasonal pattern to these occurrences. There are noticeable spikes in certain months, which may correlate with the academic calendar and associated stressors, times of celebration, or specific societal events.
+
+These patterns  provide valuable information for stakeholders like educational institutions, law enforcement, and mental health professionals, as they seek to bolster preventive measures during higher-risk periods.
+
+For example, law enforcement could increase surveillance and presence during peak months, while schools might focus on conflict resolution programs or mental health support. Mental health professionals could advocate for more resources or campaigns during these times.
+
+The slider at the bottom suggests the capability to drill down into specific months, offering even finer granularity that could lead to more targeted interventions and policies.
+
+
+### Distribution of Shooting Incidents Across Different School Areas
+
+<img src="https://github.com/sujithacherukuthota/FINAL-PROJECT/blob/main/location.png" width="700" height="500">
+
+
+X-axis: "Location Type"
+Y-axis: "Number of Incidents"
+
+
+The majority of incidents occur within school buildings, indicating that schools are primary targets.
+Incidents on school property but outside buildings are less frequent, suggesting that indoor areas are more at risk.
+
+Incidents involving both inside and outside locations, as well as on school buses, are relatively rare, possibly due to the transient nature and better supervision in these areas.
+Understanding the location distribution of these incidents can help stakeholders, such as school administrators and policymakers, to improve safety protocols where they are needed most and allocate resources more effectively to prevent such tragedies.
+
+
+### Variability and Distribution of News Reports on School Shootings by Educational Stage
+
+<img src="<img src="https://github.com/sujithacherukuthota/FINAL-PROJECT/blob/main/location.png" width="700" height="500">
+
+X-Axis: "School Level"
+Y-Axis: "Number of News Reports"
+
+
+The chart provides a visualization of how media coverage varies by school level.
+High schools and elementary schools have a broader distribution and a higher number of reports, indicating more media focus, possibly due to the severity or the impact of incidents at these levels.
+
+Other school levels like middle, junior high, and K-8 exhibit a narrower spread and fewer reports, suggesting less frequent or less covered incidents.
+The length and width of each ‘violin’ indicate the range and the frequency of reports, with wider sections representing a higher occurrence of a specific number of reports.
+
+### Interplay of Time and Place in School Shooting Episodes
+
+<img src="<img src="https://github.com/sujithacherukuthota/FINAL-PROJECT/blob/main/stacked%20bar.png" width="700" height="500">
+
+X-Axis: "Location Type" - categorizes the places where incidents occurred, such as inside school buildings or on school property.
+Y-Axis: "Number of Incidents" - quantifies the count of incidents.
+
+
+The stacked layers of the bars illustrate the prevalence of incidents at different times of the day for each location type.
+For example, the highest stack, presumably for "Outside on School Property", suggests a significant portion of incidents occur during dismissal, followed by events and other labeled timeframes.
+
+The chart indicates that certain times of day, like "Evening" or "Lunch", are more prone to incidents in specific locations.
+This information can be pivotal for school administrators and security personnel in planning and prioritizing safety measures and resource allocation during vulnerable periods.
+
+For policymakers, the data could underscore the need for tailored strategies for incident prevention that take into account the dynamics of time and place in school environments
+
+
+### Impact Severity: Average Victims in School Shooting Scenarios
+
+<img src="<img src="https://github.com/sujithacherukuthota/FINAL-PROJECT/blob/main/number%20of%20victims.png" width="700" height="500">
+
+X-Axis: "Situation" - categorizes the context or situation during which the shooting took place, such as "Indiscriminate Shooting" or "Hostage/Standoff."
+
+Y-Axis: "Average Number of Victims" - represents the mean count of victims involved in the shootings within each categorized situation.
+
+The line chart illustrates that indiscriminate shootings tend to have the highest average number of victims, highlighting their particularly devastating impact.
+Situations labeled as "Hostage/Standoff" and racially motivated shootings, while less frequent, also show a higher average victim count, indicating these situations are significantly severe when they do occur.
+
+Other contexts, such as bullying or drive-by shootings, present lower average victim numbers but are still critical areas for intervention.
+
+Understanding these patterns is essential for law enforcement, educators, and policymakers to develop focused preventative measures and crisis response plans.
+The data informs stakeholders about the critical need for interventions tailored to the nature of the incident to mitigate impact effectively.
 
