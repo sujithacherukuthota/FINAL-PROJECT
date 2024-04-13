@@ -362,19 +362,6 @@ The insight drawn from this graph could be crucial for policymakers and research
 
 
 
-## FINAL THOUGHTS
-
-**Through various visualizations, we have observed a disturbing increase in the number of incidents over recent years, with a marked rise in the last decade, signaling an urgent need for intervention and policy response.**
-
-**The data has also revealed that certain states, such as California, Texas, and Florida, have experienced a higher frequency of these tragic events. This geographic concentration might suggest the influence of regional factors and calls for tailored preventative strategies.**
-
-**When dissecting the incidents by school level, it becomes apparent that high schools have been disproportionately affected, which could reflect the social dynamics and developmental challenges specific to that age group. However, the presence of such incidents across all educational levels, from elementary to junior high, is a stark reminder that no segment of the school population is immune.**
-
-**Another poignant insight comes from the gender distribution of victims where, in many types of incidents, male victims outnumber female victims. It's a reflection that could spur discussions around gender-related social issues and security measures in educational environments.**
-
-**The analysis of incident causes paints a complex picture of the motivations behind these shootings, ranging from personal disputes to bullying. Each cause, no less tragic than the others, prompts us to consider the underlying societal and psychological factors at play.**
-
-**The interactive maps and the granular data on the time and location of incidents highlight potential patterns in when and where school shootings are more likely to occur, offering a pathway for focused security enhancements.**
 
 
 ## MY RECOMMENDATIONS FOR STAKE HOLDER 
@@ -423,10 +410,10 @@ Policymakers have the advantage of accessing a consolidated body of data that re
 
 ### REFERENCES 
 
-[1](https://www.healthdata.org/news-events/insights-blog/acting-data/gun-violence-united-states-outlier)
+[REFERENCE 1](https://www.healthdata.org/news-events/insights-blog/acting-data/gun-violence-united-states-outlier)
 
-[2](https://k12ssdb.org/data-visualizations)
+[REFERENCE 2](https://k12ssdb.org/data-visualizations)
 
-[3](https://visme.co/blog/best-data-visualizations)
+[REFERENCE 3](https://visme.co/blog/best-data-visualizations)
 
-[4](https://hex.tech/blog/how-to-build-a-dashboard-in-python//)
+[REFERENCE 4](https://hex.tech/blog/how-to-build-a-dashboard-in-python//)
