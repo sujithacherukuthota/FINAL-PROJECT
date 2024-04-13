@@ -339,6 +339,29 @@ The data informs stakeholders about the critical need for interventions tailored
 
 ### ADDITIIONAL RESEARCH 
 
+#### Comparative Analysis of School Shooting Incidences: A Global Perspective
+
+<img src="https://github.com/sujithacherukuthota/FINAL-PROJECT/blob/main/pie%20chart.png" width="700" height="500">
+
+
+In our research, we sought to compare the incidence of school shootings across different countries to glean insights into the relative frequency of such events on an international scale. The data utilized for this comparison was drawn from multiple sources that track incidents of gun violence, specifically within educational institutions. Our methodology involved compiling reported instances of school shootings and normalizing these numbers by country to understand their distribution.
+
+The pie chart illustrates the stark disparity between the United States and other nations regarding school shootings. The U.S. accounts for a substantial majority, indicated by the overwhelming blue segment at 91.4%, highlighting the disproportionate frequency of such tragic events in comparison to the rest of the world. Mexico, South Africa, Pakistan, Nigeria, and a collective of other countries make up the remainder, each represented by smaller slices of the chart.
+
+<img src="https://github.com/sujithacherukuthota/FINAL-PROJECT/blob/main/countries.png" width="700" height="500">
+
+#### International Firearm Homicide Rates: Unpacking the Numbers
+
+This bar chart presents a comparative analysis of firearm homicide rates per 100,000 population across a range of countries. The data underscores a significant disparity, with the United States showing a notably higher rate of 4.52 deaths per 100,000 population, which is markedly above other countries listed. Saudi Arabia and Chile follow, yet with considerably lower figures at 1.46 and 1.2, respectively. The trend continues to taper off as we move down the list towards countries like Germany, Poland, Taiwan, and ultimately Japan, which reports a rate of zero.
+
+The graph provides an incisive look into how gun-related homicides are not merely a matter of gun prevalence but are influenced by a matrix of factors including gun control policies, enforcement rigor, social welfare, cultural attitudes towards conflict resolution, and the overall socio-political climate. 
+
+Countries with lower rates, such as Japan and the United Kingdom, often have stringent gun control laws coupled with strong societal norms against gun ownership. Conversely, the United States' high rate can be partially attributed to its unique constitutional rights, cultural factors, and the varying strictness of gun laws across states.
+
+The insight drawn from this graph could be crucial for policymakers and researchers aiming to understand the impact of firearm regulation and societal factors on gun violence. It highlights a potential correlation between gun control measures and reduced firearm-related homicides, suggesting that policies and cultural attitudes towards firearms have a tangible effect on reducing such incidents.
+
+
+
 ## FINAL THOUGHTS
 
 **Through various visualizations, we have observed a disturbing increase in the number of incidents over recent years, with a marked rise in the last decade, signaling an urgent need for intervention and policy response.**
@@ -398,5 +421,12 @@ Policymakers have the advantage of accessing a consolidated body of data that re
 **The interactive maps and the granular data on the time and location of incidents highlight potential patterns in when and where school shootings are more likely to occur, offering a pathway for focused security enhancements.**
 
 
+### REFERENCES 
 
+[](https://www.healthdata.org/news-events/insights-blog/acting-data/gun-violence-united-states-outlier)
 
+[](https://k12ssdb.org/data-visualizations)
+
+[](https://visme.co/blog/best-data-visualizations)
+
+[](https://hex.tech/blog/how-to-build-a-dashboard-in-python//)
