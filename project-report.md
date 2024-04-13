@@ -423,10 +423,10 @@ Policymakers have the advantage of accessing a consolidated body of data that re
 
 ### REFERENCES 
 
-[](https://www.healthdata.org/news-events/insights-blog/acting-data/gun-violence-united-states-outlier)
+[1](https://www.healthdata.org/news-events/insights-blog/acting-data/gun-violence-united-states-outlier)
 
-[](https://k12ssdb.org/data-visualizations)
+[2](https://k12ssdb.org/data-visualizations)
 
-[](https://visme.co/blog/best-data-visualizations)
+[3](https://visme.co/blog/best-data-visualizations)
 
-[](https://hex.tech/blog/how-to-build-a-dashboard-in-python//)
+[4](https://hex.tech/blog/how-to-build-a-dashboard-in-python//)
