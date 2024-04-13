@@ -1,6 +1,6 @@
 # SEMESTER PROJECT
 
-### CS 625
+### CS 625 Spring 2024
 
 ### Sujitha Cherukuthota
 
