@@ -407,7 +407,13 @@ Policymakers have the advantage of accessing a consolidated body of data that re
 
 **The interactive maps and the granular data on the time and location of incidents highlight potential patterns in when and where school shootings are more likely to occur, offering a pathway for focused security enhancements.**
 
+### LINK TO JUPYTER NOTEBOOK 
 
+[LINK TO THE JUPYTER NOTEBOOK](http://localhost:8888/notebooks/PROJECT%20DATA%20VIZZ%20.ipynb)
+
+ http://localhost:8888/notebooks/PROJECT%20DATA%20VIZZ%20.ipynb
+
+ 
 ### REFERENCES 
 
 [REFERENCE 1](https://www.healthdata.org/news-events/insights-blog/acting-data/gun-violence-united-states-outlier)
