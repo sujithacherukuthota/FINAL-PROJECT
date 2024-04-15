@@ -20,7 +20,8 @@ Certainly, let's start by providing an overview of the dataset and then move on 
 
 **Dataset Overview**
 
-This dataset offers a comprehensive look at school shooting incidents in the United States. It is designed to provide educators, policymakers, and researchers with detailed information to analyze the trends, circumstances, and outcomes of these tragic events.
+This dataset provides a comprehensive view of school shooting incidents in the United States. It is intended to give educators, policymakers, and academics with thorough information for analyzing the trends, circumstances, and results of these unfortunate incidents.
+
 
 **Sheets in the Dataset**
 
