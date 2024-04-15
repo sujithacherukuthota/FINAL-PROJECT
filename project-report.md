@@ -33,6 +33,7 @@ The dataset is organized into multiple sheets, each containing specific aspects 
 **Columns in the 'Incidents' Sheet**
 
 - incident_id     : A unique identifier for each incident.
+  
 - sources         : References to data sources where information about the incident was obtained.
 - number_news     : The count of news reports covering the incident.
 - media_attention : Qualitative assessment of the media coverage intensity.
